@@ -13,7 +13,7 @@ public class MilitaryPlane extends Plane{
         this.type = type;
     }
 
-    public MilitaryType getType() {
+    public MilitaryType getMilitaryType() {
         return type;
     }
 
